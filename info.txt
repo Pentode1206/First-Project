@@ -7,3 +7,5 @@
 03MAY22 1715 This line was added from the Nano editor on CF-W5
 
 03MAY22 1734 This line was added from the Notepad editor on Satellite-L855
+
+04MAY22 1241 This line was added from the Notepad editor on Satellite-L855 after reinstalling Git for Windows w/o GCM
