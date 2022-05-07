@@ -1,15 +1,9 @@
 01MAY22 0919 This is a new file to be added to the repo.
-
 01MAY22 1516 This line was added from the Nano editor on DEV-PC02
-
 03MAY22 1358 This line was added from the Nano editor on DEV-PC03
-
 03MAY22 1715 This line was added from the Nano editor on CF-W5
-
 03MAY22 1734 This line was added from the Notepad editor on Satellite-L855
-
 04MAY22 1241 This line was added from the Notepad editor on Satellite-L855 after reinstalling Git for Windows w/o GCM
-
 04MAY22 1358 This line was added from the Notepad editor on Satellite-L855 to test stored credentials
-
 04MAY22 1601 This line was added from the Notepad editor on Satellite-L855 to test using git under PowerShell
+06MAY22 1601 This line was added from the VS Code editor on Satellite-L855
