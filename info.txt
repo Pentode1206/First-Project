@@ -11,3 +11,4 @@
 07MAY22 1312 Satellite-L505 using SSH
 07MAY22 1319 Satellite-L505 using Nano
 07MAY22 1450 Satellite-L505 using Nano - testing keyring
+07MAY22 1502 Satellite-L505 using Nano - testing keyring and cert persistance
